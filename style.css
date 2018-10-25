@@ -1,0 +1,60 @@
+*{
+    background-color:snow;
+}
+p{
+    float:left;
+    margin-top:5px;
+    margin-bottom: 1px;
+}
+#Bold{
+    font-family: fantasy;
+    font-size: 120%;
+}
+#T1{                /*text next to picture*/
+    float:right;
+    text-align:justify;
+    width:290px;
+}
+#left{
+    width:500px;
+    float:left;
+    
+}
+#pic1{
+    margin-right:0px;
+    margin-top: 50px;
+    float: left;
+    width: 200px;
+}
+#right{
+    float:right;
+    margin-right: 200px;
+    border-left: 2px dotted;
+    border-color: black;
+    padding-left: 40px;
+    width:300px;
+}
+#contact1{
+    width:290px;
+    margin-top: 50px;
+    margin-bottom: 140px;
+}
+#contact2{
+    width:290px;
+    margin-top: 50px;
+    margin-bottom: 140px;
+}
+#contact3{
+    width:290px;
+    margin-top: 210px;
+    margin-bottom: 140px;
+}
+#contact4{
+    width:290px;
+    margin-top: 250px;
+    margin-bottom: 140px;
+}
+#rightmap{
+    float:right;
+    margin-right:20px;
+}
